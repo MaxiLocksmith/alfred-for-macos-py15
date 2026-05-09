@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with ultimate Alfred for macOS Workflow | app-uninstaller + cloud-sync, the #1 workflow. Includes app-uninstaller and cloud-sync for a smoother macOS
 
 
 
